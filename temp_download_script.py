@@ -1,4 +1,4 @@
-# download_fineweb_samples.py
+# download_fineweb_samples
 from __future__ import annotations
 import os, logging, tempfile, shutil
 from pathlib import Path
